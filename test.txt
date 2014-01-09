@@ -1,3 +1,5 @@
 Just a regular test file.
 
 Nothing to see here, please move along.
+
+This line was added in an update.
